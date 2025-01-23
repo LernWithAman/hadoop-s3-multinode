@@ -267,3 +267,8 @@ hdfs dfs -ls -R
 
 yarn jar /usr/local/hadoop/share/hadoop/mapreduce/hadoop-mapreduce-examples-*.jar pi  5 10
 
+
+
+[1st=9870]
+[2nd=8088]
+
